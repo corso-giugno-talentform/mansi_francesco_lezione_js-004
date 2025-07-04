@@ -46,6 +46,8 @@ let studente3 = {
 
 let students = [studente1, studente2, studente3];
 
+
+
 students.forEach(function (singolo) {
     //console.log(singolo.firstname);
     singolo.stampaEta();
